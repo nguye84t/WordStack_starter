@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
                     words.add(word);
                 }
             }
+
         } catch (IOException e) {
             Toast toast = Toast.makeText(this, "Could not load dictionary", Toast.LENGTH_LONG);
             toast.show();
