@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
 
+
         } catch (IOException e) {
             Toast toast = Toast.makeText(this, "Could not load dictionary", Toast.LENGTH_LONG);
             toast.show();
@@ -196,7 +197,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public boolean onUndo(View view) {
-
+        fsdfsdfsdfdsi;
         /**
          **
          **  YOUR CODE GOES HERE
